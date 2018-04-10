@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: xubaoshan|Blog
+title: 徐保山|Blog
 subtitle:
 description: Go and Never stop
 author: XBS
@@ -78,7 +78,7 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Just go and never stop"
+keywords: "Hello Web"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -150,8 +150,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+#scheme: Muse
+scheme: Mist
 #scheme: Pisces
 
 
